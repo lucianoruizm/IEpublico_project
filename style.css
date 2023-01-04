@@ -1,0 +1,26 @@
+body {
+    background-color: #272725;
+    color: white;
+}
+
+#entryExitform {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input {
+    border-radius: 3px;
+    border: navajowhite;
+}
+
+.btn {
+    background-color: aliceblue;
+    border: none;
+    border-radius: 3px;
+    margin-top: 30px;
+}
+
+#counterTable {
+    margin: 50px auto;
+}
